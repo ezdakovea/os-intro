@@ -6,4 +6,5 @@ function hello {
 }
 echo $HELLO
 hello
-echo $HELLO
+echo $HELLO.
+
